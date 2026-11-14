@@ -49,8 +49,7 @@ npm install
 npm run dev                 # http://localhost:5000
 ```
 
-> **Your Atlas connection string is already configured** in `server/.env`:
-> `mongodb+srv://mahendrakumaruohyd_db_user:0vz9M7Fhu4EmBEcl@cluster0.exn1qgc.mongodb.net/todo-app`
+> **Your Atlas connection string is already configured** in `server/.env` (see below).
 
 ### 2. Frontend
 ```bash
